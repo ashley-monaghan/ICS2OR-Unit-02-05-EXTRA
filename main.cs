@@ -5,7 +5,7 @@
 
 using System;
 
-class Program 
+class Program
 {
     public static void Main(string[] args)
     {
@@ -35,6 +35,6 @@ class Program
         Console.WriteLine("The goverment will take: $" + tax.ToString("0.00"));
 
         Console.WriteLine("\nDone.");
-        
-    }    
+
+    }
 }
